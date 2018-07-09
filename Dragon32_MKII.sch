@@ -1,10 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:D32_MKII
-LIBS:power
-LIBS:device
-LIBS:linear
-LIBS:74xx
-LIBS:Dragon32_MKII-cache
+LIBS:Dragon32_MKII
 EELAYER 25 0
 EELAYER END
 $Descr A1 33110 23386
@@ -12,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "Dragon 32 MKII Schematic"
 Date "2018-03-04"
-Rev ""
+Rev "B"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -3196,9 +3191,9 @@ $EndComp
 Text GLabel 28000 3400 0    50   Input ~ 0
 DACOUT
 Text GLabel 28000 3500 0    50   Input ~ 0
-EXTSND
-Text GLabel 28000 3600 0    50   Input ~ 0
 CASSND
+Text GLabel 28000 3600 0    50   Input ~ 0
+EXTSND
 $Comp
 L GND #PWR050
 U 1 1 5557A9CB
