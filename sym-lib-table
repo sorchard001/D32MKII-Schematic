@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Dragon32_MKII)(type Legacy)(uri ${KIPRJMOD}/Dragon32_MKII.lib)(options "")(descr ""))
+)

@@ -1,6 +1,6 @@
 # Dragon 32 MKII Schematic
 
-Captured in KiCad by Stewart Orchard 2015-2018
+Captured in KiCad by Stewart Orchard 2015-2019
 
 Original design by Dragon Data Ltd circa 1982
 
