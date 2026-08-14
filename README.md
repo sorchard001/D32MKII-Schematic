@@ -1,6 +1,6 @@
 # Dragon 32 MKII Schematic
 
-Captured in KiCad by Stewart Orchard 2015-2019
+Captured in KiCad by Stewart Orchard 2015-2026
 
 Original design by Dragon Data Ltd circa 1982
 
@@ -11,5 +11,3 @@ The published Dragon schematics do not appear to include MKII versions, which ca
 ## Disclaimer
 
 Much as I would like to think that I've got this 100% correct, there is always the chance that there are mistakes and omissions. I would recommend checking that the information is accurate before using this schematic for anything potentially expensive.
-
-
